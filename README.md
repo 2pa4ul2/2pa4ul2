@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Paul
+- 👀 I’m interested in Game development and art
+- 🌱 I’m currently learning C 
+- 💞️ I’m looking to collaborate on game devs
+- 📫 How to reach me pauladrian0224@gmail.com
