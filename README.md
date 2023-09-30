@@ -3,9 +3,7 @@
 
 - 🔭 Web development Projects **Connect4 and Portfolio**
 
-- 🌱 I’m currently learning **Python, Artificial Intelligence and Web dev**
-
-- 👯 I’m looking to collaborate on **Web dev and Python**
+- 🌱 I’m currently learning **Python, AI/ML and Frontend Web Development**
 
 - 📫 How to reach me **pauladrian0224@gmail.com**
 
