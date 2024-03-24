@@ -7,16 +7,24 @@
 
 - 📫 How to reach me **pauladrian0224@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paul adrian torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul adrian torres" height="30" width="40" /></a>
-<a href="https://fb.com/paul adrian torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paul adrian torres" height="30" width="40" /></a>
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/paul-adrian-torres-464b2521b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paul-adrian-torres-464b2521b/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/adrii_xml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adrii_xml/" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/porucreatives" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/porucreatives" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/paul.2444.444/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/paul.2444.444/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">👨‍💻Languages and Tools:</h3>
-
+<h2 align="center">👨‍💻Languages and Tools:</h2>
+<br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender,anaconda,androidstudio,blender,bootstrap,c,cpp,java,html,css,js,flutter,php,py,flask,react,tensorflow,git,jquery" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender,anaconda,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,java,html,css,js,flutter,php,py,flask,react,tensorflow,git,jquery" />
   </a>
 </p>
+<h2 align="center">📈My stats<h2>
+  <br/>
+<a href="https://git.io/streak-stats"><img width='50%' src="https://streak-stats.demolab.com?user=2pa4ul2&theme=dark" alt="GitHub Streak" /></a>
+<img alt='my stats' width='47%' src="https://github-readme-stats.vercel.app/api?username=2pa4ul2&show_icons=true&theme=dark">
+<img alt='my stats' align='center' width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=2pa4ul2&layout=compact&theme=dark">
