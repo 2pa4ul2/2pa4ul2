@@ -18,8 +18,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps, ai, Figma, Figma, blender
-
-anaconda, androidstudio, blender, bootstrap, c, c++, java, html, css, js, flutter, php, py, flask, react, tensorflow, git, jquery" />
+    <img src="https://skillicons.dev/icons?i=ps, ai, Figma, Figma, blender, anaconda, androidstudio, blender, bootstrap, c, c++, java, html, css, js, flutter, php, py, flask, react, tensorflow, git, jquery" />
   </a>
 </p>
