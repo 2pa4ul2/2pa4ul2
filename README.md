@@ -18,9 +18,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=ps, ai, Figma, Figma, blender
+
+anaconda, androidstudio, blender, bootstrap, c, c++, java, html, css, js, flutter, php, py, flask, react, tensorflow, git, jquery" />
   </a>
 </p>
-
-<h3 align="left">📈Github stats:</h3>
-![2pa4ul2's Stats](https://github-readme-stats.vercel.app/api?username=2pa4ul2&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
