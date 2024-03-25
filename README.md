@@ -1,4 +1,4 @@
-![image](https://github.com/2pa4ul2/2pa4ul2/assets/95076322/850f8dd7-ab36-4af2-9249-5cbf7982810f)<h1 align="center">Hi 👋, I'm Paul Adri</h1>
+<h1 align="center">Hi 👋, I'm Paul Adri</h1>
 <h3 align="center">A Student developer from The Philippines</h3>
 
 😁 I'm interested in Programming and UI/UX Design
