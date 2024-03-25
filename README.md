@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Paul Adri</h1>
 <h3 align="center">A Student developer from The Philippines</h3>
 
-😁 I'm interested in Programming and UI/UX Design
-🧐 Open for collaboration in different areas
-✍️ I'm currently majoring in Computer Science in TUP-Manila
-🔭 Currently working on multiple projects
-🌱 I’m currently learning **Python, AI/ML and Frontend Web Development**
-📫 How to reach me **pauladrian0224@gmail.com**
+😁 I'm interested in Programming and UI/UX Design <br/>
+🧐 Open for collaboration in different areas <br/>
+✍️ I'm currently majoring in Computer Science in TUP-Manila <br/>
+🔭 Currently working on multiple projects <br/>
+🌱 I’m currently learning **Python, AI/ML and Frontend Web Development** <br/>
+📫 How to reach me **pauladrian0224@gmail.com** <br/>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
