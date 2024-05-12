@@ -8,8 +8,8 @@
 <br>
 😁 I'm interested in Programming and UI/UX Design <br/>
 ✍️ Computer Science Major in TUP-Manila <br/>
-🌱 I’m currently learning ** Python, Cloud Computing, AI/ML and Frontend Web Development ** <br/>
-📫 How to reach me ** pauladrian0224@gmail.com ** <br/>
+🌱 I’m currently learning Python, Cloud Computing, AI/ML and Frontend Web Development <br/>
+📫 How to reach me pauladrian0224@gmail.com <br/>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
