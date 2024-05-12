@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paul Adri</h1>
 <h3 align="center">A Student developer from The Philippines</h3>
-
+<div align = "center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=2pa4ul2&label=Profile%20Views&color=0&icon=0&pretty=false" />
+  </a>
+</div>
+<br>
 😁 I'm interested in Programming and UI/UX Design <br/>
 🧐 Open for collaboration<br/>
 ✍️ Computer Science Major in TUP-Manila <br/>
