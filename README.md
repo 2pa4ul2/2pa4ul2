@@ -16,7 +16,7 @@
 <h2 align="center">📈My stats<h2>
   <br/>
 <div align = "center">
-<a width='47%' href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=2pa4ul2"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=2pa4ul2"/></a>
 <img alt='my stats' width='47%' src="https://github-readme-stats.vercel.app/api?username=2pa4ul2&show_icons=true">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2pa4ul2&layout=compact"/>
 </div>
