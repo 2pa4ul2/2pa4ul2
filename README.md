@@ -16,7 +16,7 @@
 <h2 align="center">📈My stats<h2>
   <br/>
 <div align = "center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=2pa4ul2"/></a>
-<img alt='my stats' width='47%' src="https://github-readme-stats.vercel.app/api?username=2pa4ul2&show_icons=true">
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2pa4ul2&layout=compact"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=2pa4ul2&theme=dark&hide_border=true&border_radius=10&order=3"/></a>
+<img alt='my stats' width='47%' src="https://github-readme-stats.vercel.app/api?username=2pa4ul2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1">
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2pa4ul2&hide_title=true&layout=compact&theme=dark&card_width=320&langs_count=6&hide_border=true&order=2"/>
 </div>
