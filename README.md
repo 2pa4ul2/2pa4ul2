@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul Adrian</h1>
 <p align="center">
-  <img src="computer.gif" alt="animated" />
+  <img src="computer1.gif" alt="animated" width="600" />
 </p>
 <h3 align="center">A Student developer from The Philippines</h3>
 <br>
