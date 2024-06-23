@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Adrian</h1>
+<p align="center">
+  <img src="computer.gif" alt="animated" />
+</p>
 <h3 align="center">A Student developer from The Philippines</h3>
 <br>
 ✍️ Computer Science Major in TUP-Manila <br/>
