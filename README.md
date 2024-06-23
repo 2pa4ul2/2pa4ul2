@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paul Adri</h1>
+<h1 align="center">Hi 👋, I'm Paul Adrian</h1>
 <h3 align="center">A Student developer from The Philippines</h3>
 <br>
 ✍️ Computer Science Major in TUP-Manila <br/>
