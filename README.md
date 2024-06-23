@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paul Adri</h1>
 <h3 align="center">A Student developer from The Philippines</h3>
 <br>
-😁 I'm interested in Programming and UI/UX Design <br/>
 ✍️ Computer Science Major in TUP-Manila <br/>
-🌱 I’m currently learning Python, Cloud Computing, AI/ML and Frontend Web Development <br/>
-📫 How to reach me pauladrian0224@gmail.com <br/>
+🌱 Currently learning Python, AI/ML and Frontend Web Development <br/>
+📫 Reach me at pauladrian0224@gmail.com <br/>
 
 <h2 align="center">Connect With Me!!</h2>
 <p align="center">
