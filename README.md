@@ -6,6 +6,7 @@
 <br>
 ✍️ Computer Science Major in TUP-Manila <br/>
 🌱 Currently learning Python, AI/ML and Frontend Web Development <br/>
+🌱 I like Anime and just caught up with One piece <br/>
 📫 Reach me at pauladrian0224@gmail.com <br/>
 
 <h2 align="center">Connect With Me!!</h2>
